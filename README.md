@@ -4,7 +4,8 @@
 
 
 This project is an  data analysis solution designed to extract critical business insights from Walmart sales data. We utilize Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions. The project is ideal for data analysts looking to develop skills in data manipulation, SQL querying, and data pipeline creation.
-(https://github.com/qazinalam/Walmart-Data-Analysis/blob/main/walmart_project-piplelines.png)
+!(https://github.com/qazinalam/Walmart-Data-Analysis/blob/main/walmart_project-piplelines.png)
+!(https://github.com/qazinalam/Netflix-Data-Analysis/blob/main/347450015-2088d860-f69a-4407-9de1-2c893f763f5a.png)
 
 ---
 
